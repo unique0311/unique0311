@@ -2,7 +2,7 @@
 
 ##  Senior Full-Stack & Web3 Developer 
 
-<!--<img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="unique0311" /> -->
+<!--<img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="unique0311" /> 
 <p align="center">
   <a href="https://github.com/unique0311?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/unique0311"/></a>
@@ -29,17 +29,17 @@
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=unique0311&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
-
+-->
 
 - 📫 How to reach me </br>
     Email: unigentque11@gmail.com </br>
     Telegram: https://t.me/wolfox2311 </br>
+    WhatsApp: +1 (872) 357-1690 </br>
     Discord: _unique0311 </br>
-   <!-- WhatsApp: +44 7440 548954 </br>
-    Resume: https://flowcv.com/resume/8o5hpas28f </br> -->
+   <!--  Resume: https://flowcv.com/resume/8o5hpas28f </br> -->
     
 <!--
-**fredgeorge0311/fredgeorge0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**unique0311/unique311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
