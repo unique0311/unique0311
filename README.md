@@ -29,13 +29,15 @@
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=unique0311&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
--->
+
 
 - 📫 How to reach me </br>
     Email: unigentque11@gmail.com </br>
     Telegram: https://t.me/wolfox2311 </br>
     WhatsApp: +1 (872) 357-1690 </br>
     Discord: _unique0311 </br>
+
+    -->
    <!--  Resume: https://flowcv.com/resume/8o5hpas28f </br> -->
     
 <!--
